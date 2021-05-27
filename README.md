@@ -23,4 +23,6 @@ Paste these commands in a new code at the end
 
 !pip3 install mahotas
 
+!pip3 install Django
+
 !git clone https://github.com/Mitheshjn/leaf-project.git
