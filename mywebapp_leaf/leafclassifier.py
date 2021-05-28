@@ -13,7 +13,7 @@ import cv2
 import mahotas as mt
 
 
-dataset = pd.read_csv("/home/mith/drive/MyDrive/mywebapp_leaf/Flavia_features.csv")
+dataset = pd.read_csv("/content/leaf-project/mywebapp_leaf/Flavia_features.csv")
 dataset.head(5)
 
 maindir = '/content/Leaves/'
@@ -88,7 +88,7 @@ var1=np.cumsum(np.round(pca.explained_variance_ratio_, decimals=4)*100)
 plt.plot(var1)
 
 def bg_sub(filename):
-    test_img_path = '/home/mith/drive/MyDrive/mywebapp_leaf/' + filename
+    test_img_path = '/content/leaf-project/mywebapp_leaf/' + filename
     main_img = cv2.imread(test_img_path)
     img = cv2.cvtColor(main_img, cv2.COLOR_BGR2RGB)
     resized_image = cv2.resize(img, (1600, 1200))
