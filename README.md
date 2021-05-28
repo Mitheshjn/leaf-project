@@ -26,3 +26,11 @@ Paste these commands in a new code at the end
 !pip3 install Django
 
 !git clone https://github.com/Mitheshjn/leaf-project.git
+
+There is no preinstalled text editor or IDE in the rdp so if needed paste these commands
+
+!sudo add-apt-repository ppa:notepadqq-team/notepadqq
+
+!sudo apt-get update
+
+!sudo apt-get install notepadqq
