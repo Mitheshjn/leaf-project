@@ -42,7 +42,7 @@ More details regarding the dataset can be found at
 ```
 http://flavia.sourceorge.net/
 ```
-***You would need to change the directory in the leafclassifier.py file ***
+***You would need to change the directory in the leafclassifier.py file***
 
 Once everything is setup and all the libaries is installed
 
