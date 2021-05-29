@@ -6,5 +6,6 @@ tar -xjvf Leaves.tar.bz2
 tar -xjvf standardleaves.tar.bz2 
 pip3 install mahotas 
 pip3 install Django 
-
+sudo pip3 install Django
+sudo pip3 install mahotas
 #etc.
