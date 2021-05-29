@@ -134,7 +134,6 @@ pip install Django
 ```
 pip install mahotas
 ```
-Download this github repo
 
 ### ***You would need to change the directory location in the leafclassifier.py file***
 > ##### ***(Lines to be edited are 16, 19, and 91 in the file)***
