@@ -7,5 +7,6 @@ tar -xjvf standardleaves.tar.bz2
 sudo add-apt-repository ppa:notepadqq-team/notepadqq
 sudo apt-get update
 sudo apt-get install notepadqq
-
+sudo pip3 install Django
+sudo pip3 install mahotas
 #etc.
