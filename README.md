@@ -3,7 +3,7 @@ This project is a web app which uses Django as a web server
 I recommend to use this project in google colab for better performance
 
 Commands to execute in google colab
-(You would also need a colab rdp to use the gui interface of the web app)
+(You would also need a colab RDP to use the gui interface of the web app)
 
 RDP in colab:
 ```
@@ -42,7 +42,7 @@ More details regarding the dataset can be found at
 ```
 http://flavia.sourceorge.net/
 ```
-You would need to change the directory in the leafclassifier.py file 
+***You would need to change the directory in the leafclassifier.py file ***
 
 Once everything is setup and all the libaries is installed
 
