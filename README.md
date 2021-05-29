@@ -54,15 +54,6 @@ Paste these commands in new code in colab
 !pip3 install Django
 !pip3 install mahotas
 ```
-
-#### OR To automate this process use these commands in the terminal (for colab RDP)
-```
-chmod +x *
-```
-> Then
-```
-./install-colab-rdp.sh
-```
 Then paste these commands in new code in colab 
 ```
 !pip3 install Django
@@ -74,6 +65,15 @@ sudo add-apt-repository ppa:notepadqq-team/notepadqq
 sudo apt-get update
 sudo apt-get install notepadqq
 ```
+#### OR To automate this process use these commands in the terminal (for colab RDP)
+```
+chmod +x *
+```
+> Then
+```
+./install-colab-rdp.sh
+```
+
 ### ***You would need to change the directory location in the leafclassifier.py file***
 > ##### ***(Lines to be edited are 16, 19, and 91 in the file)***
 
