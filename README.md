@@ -23,9 +23,9 @@ git clone https://github.com/Mitheshjn/leaf-project.git
 ```
 There is no preinstalled text editor or IDE in the rdp so if needed paste these commands
 ```
-!sudo add-apt-repository ppa:notepadqq-team/notepadqq
-!sudo apt-get update
-!sudo apt-get install notepadqq
+sudo add-apt-repository ppa:notepadqq-team/notepadqq
+sudo apt-get update
+sudo apt-get install notepadqq
 ```
 
 If you wish to use this project in your system then links to all required dependences is given below
