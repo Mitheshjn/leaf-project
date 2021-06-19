@@ -5,8 +5,8 @@ I recommend to use this project in google colab for better performance
 
 ## REQUIREMENTS :
 
-Python 3.2+ (as default)
-Any IDE which supports python
+Python 3.2+ (as default) ,
+Any IDE which supports python ,
 The dataset (link provided below)
 
 ## LINUX / COLAB RDP :
