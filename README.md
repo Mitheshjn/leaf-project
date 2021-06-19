@@ -5,7 +5,7 @@ I recommend to use this project in google colab for better performance
 
 ## REQUIREMENTS :
 
-Python 3.2+
+Python 3.2+ (as default)
 Any IDE which supports python
 The dataset (link provided below)
 
@@ -38,6 +38,10 @@ tar -xjvf Leaves.tar.bz2
 tar -xjvf standardleaves.tar.bz2
 pip3 install mahotas
 pip3 install Django
+pip3 install pandas
+pip3 install numpy
+pip3 install scikit-learn
+pip3 install opencv-python
 ```
 #### OR To automate this process use these commands in terminal (for Linux)
 ```
