@@ -1,6 +1,6 @@
 ## DESCRIPTION :
 
-This project is a web app which uses Django as a web server.
+This project is a web app based on plant/leaf classification and identification system which uses Django as a web server.
 I recommend to use this project in google colab for better performance
 
 ## LINUX / COLAB RDP :
