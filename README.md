@@ -3,6 +3,12 @@
 This project is a web app based on plant/leaf classification and identification system which uses Django as a web server.
 I recommend to use this project in google colab for better performance
 
+## REQUIREMENTS :
+
+Python 3.2+
+Any IDE which supports python
+The dataset (link provided below)
+
 ## LINUX / COLAB RDP :
 
 Commands to execute in google colab
@@ -53,11 +59,10 @@ Paste these commands in new code in colab
 ```
 !pip3 install Django
 !pip3 install mahotas
-```
-Then paste these commands in new code in colab 
-```
-!pip3 install Django
-!pip3 install mahotas
+!pip3 install pandas
+!pip3 install numpy
+!pip3 install scikit-learn
+!pip3 install opencv-python
 ```
 If using colab, there is no pre-installed text editor or IDE, so if needed paste these commands in the terminal
 ```
@@ -129,10 +134,12 @@ Install these python packages in your system:
 * Django 
 ```
 pip install Django
-```
-* mahotas
-```
+pip install opencv-python
 pip install mahotas
+pip install pandas
+pip install numpy
+pip install scikit-learn
+pip install opencv-python
 ```
 
 ### ***You would need to change the directory location in the leafclassifier.py file***
